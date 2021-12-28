@@ -1,0 +1,12 @@
+form {
+    max-width: 300px;
+    margin: 10% auto 0;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.form-group:first-child input {
+    margin-bottom: 10px;
+}
